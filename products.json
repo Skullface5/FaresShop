@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 13",
+            "category": "phones",
+            "price": 799.99,
+            "image": "images/iphone.jpg",
+            "featured": true
+        },
+        {
+            "id": 2,
+            "name": "AirPods Pro",
+            "category": "airpods",
+            "price": 249.99,
+            "image": "images/airpods.jpg",
+            "featured": true
+        },
+        {
+            "id": 3,
+            "name": "USB-C Charger",
+            "category": "chargers",
+            "price": 29.99,
+            "image": "images/charger.jpg",
+            "featured": true
+        }
+    ]
+}
